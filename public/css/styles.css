@@ -1,28 +1,24 @@
-/* Reset some default browser styles */
 body, h1, h2, h3, p, ul {
     margin: 0;
     padding: 0;
     list-style: none;
 }
 
-/* Base styling for the body */
 body {
     font-family: Arial, sans-serif;
     color: #333;
     line-height: 1.6;
 }
 
-/* Add some padding and margin to the container */
 .container {
     width: 80%;
     margin: 20px auto;
     padding: 20px;
-    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background */
+    background-color: rgba(255, 255, 255, 0.8);
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
     border-radius: 8px;
 }
 
-/* Style the navigation bar */
 nav {
     background-color: #0044cc;
     padding: 10px;
@@ -43,18 +39,15 @@ nav a:hover {
     background-color: #002a80;
 }
 
-/* Style the headings */
 h1, h2, h3 {
     color: #0044cc;
     margin-bottom: 10px;
 }
 
-/* Add some spacing and styling to the paragraphs */
 p {
     margin-bottom: 15px;
 }
 
-/* Style the button */
 button {
     background-color: #0044cc;
     color: #fff;
@@ -69,12 +62,10 @@ button:hover {
     background-color: #002a80;
 }
 
-/* Style the output container */
 #output {
     margin-top: 20px;
 }
 
-/* Style individual item containers */
 #output div {
     background-color: #e0e7ff;
     padding: 15px;
@@ -82,18 +73,15 @@ button:hover {
     border-radius: 8px;
 }
 
-/* Style the item titles */
 #output h3 {
     margin-bottom: 5px;
     color: #333;
 }
 
-/* Add some spacing to the item descriptions */
 #output p {
     margin-bottom: 5px;
 }
 
-/* Different background images for each page */
 .home-bg {
     background: url('../images/image1.jpg') no-repeat center center fixed;
     background-size: cover;
