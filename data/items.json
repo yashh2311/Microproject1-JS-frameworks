@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "description": "A novel about the American dream and the roaring twenties."
+    },
+    {
+        "id": 2,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "description": "A novel that explores the issues of race and class in the Deep South."
+    },
+    {
+        "id": 3,
+        "title": "1984",
+        "author": "George Orwell",
+        "description": "A dystopian novel about totalitarianism and surveillance."
+    },
+    {
+        "id": 4,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "description": "A romantic novel that also critiques the British landed gentry at the end of the 18th century."
+    },
+    {
+        "id": 5,
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "description": "A novel about teenage rebellion and alienation."
+    },
+    {
+        "id": 6,
+        "title": "Moby-Dick",
+        "author": "Herman Melville",
+        "description": "A novel about the quest to capture a giant white whale."
+    }
+]
